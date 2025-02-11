@@ -1,0 +1,2071 @@
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 3ms, vehicles TOT 5 ACT 5 BUF 0)                       Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_0.4', lane='E10_0', gap=-7.38, time=17.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge 'E11', time=22.00.
+Warning: Teleporting vehicle 't_4'; junction collision with vehicle 'f_1.4', lane=':J8_6_1', gap=-3.50, time=31.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge 'E12', time=31.00.
+Warning: Teleporting vehicle 'f_3.7'; junction collision with vehicle 't_2', lane=':J10_6_1', gap=-5.69, time=41.00 stage=laneChange.
+Warning: Teleporting vehicle 't_0'; collision with vehicle 't_4', lane='E12_1', gap=-3.56, time=41.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge 'E13', time=41.00.
+Warning: Vehicle 'f_3.7' ends teleporting on edge 'E9', time=43.00.
+Warning: Teleporting vehicle 't_2'; collision with vehicle 'f_4.10', lane='E10_1', gap=-1.86, time=58.00 stage=move.
+Warning: Vehicle 't_2' ends teleporting on edge '-E8.14', time=58.00.
+#------------------------------------#
+#----------Training Begins-----------#
+#------------------------------------#
+ Retrying in 1 seconds
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 16
+states.shape: (75, 9)
+observed_states.shape: (21, 9)
+len(HVs): 18
+states.shape: (75, 9)
+observed_states.shape: (23, 9)
+len(HVs): 19
+states.shape: (75, 9)
+observed_states.shape: (24, 9)
+len(HVs): 20
+states.shape: (75, 9)
+observed_states.shape: (25, 9)
+len(HVs): 23
+states.shape: (75, 9)
+observed_states.shape: (28, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (28, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (28, 9)
+len(HVs): 25
+states.shape: (75, 9)
+observed_states.shape: (29, 9)
+len(HVs): 28
+states.shape: (75, 9)
+observed_states.shape: (32, 9)
+len(HVs): 29
+states.shape: (75, 9)
+observed_states.shape: (33, 9)
+len(HVs): 30
+states.shape: (75, 9)
+observed_states.shape: (35, 9)
+len(HVs): 30
+states.shape: (75, 9)
+observed_states.shape: (35, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 33
+states.shape: (75, 9)
+observed_states.shape: (38, 9)
+len(HVs): 33
+states.shape: (75, 9)
+observed_states.shape: (38, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (44, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 59
+states.shape: (75, 9)
+observed_states.shape: (62, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 60
+states.shape: (75, 9)
+observed_states.shape: (61, 9)
+len(HVs): 61
+states.shape: (75, 9)
+observed_states.shape: (62, 9)
+len(HVs): 62
+states.shape: (75, 9)
+observed_states.shape: (63, 9)
+len(HVs): 63
+states.shape: (75, 9)
+observed_states.shape: (64, 9)
+len(HVs): 63
+states.shape: (75, 9)
+observed_states.shape: (64, 9)
+len(HVs): 63
+states.shape: (75, 9)
+observed_states.shape: (64, 9)
+len(HVs): 61
+states.shape: (75, 9)
+observed_states.shape: (62, 9)
+len(HVs): 61
+states.shape: (75, 9)
+observed_states.shape: (62, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs):Step #100.00 (1ms ~= 1000.00*RT, ~58000.00UPS, TraCI: 21ms, vehicles TOT 109 ACT 58 BUF 26Step #200.00 (1ms ~= 1000.00*RT, ~60000.00UPS, TraCI: 19ms, vehicles TOT 192 ACT 60 BUF 68Step #300.00 (2ms ~= 500.00*RT, ~35500.00UPS, TraCI: 25ms, vehicles TOT 280 ACT 71 BUF 105Step #400.00 (2ms ~= 500.00*RT, ~34000.00UPS, TraCI: 18ms, vehicles TOT 359 ACT 68 BUF 151Step #500.00 (1ms ~= 1000.00*RT, ~72000.00UPS, TraCI: 20ms, vehicles TOT 439 ACT 72 BUF 19Step #600.00 (3ms ~= 333.33*RT, ~25333.33UPS, TraCI: 28ms, vehicles TOT 511 ACT 76 BUF 249Step #700.00 (2ms ~= 500.00*RT, ~38500.00UPS, TraCI: 28ms, vehicles TOT 583 ACT 77 BUF 302Step #800.00 (1ms ~= 1000.00*RT, ~86000.00UPS, TraCI: 23ms, vehicles TOT 655 ACT 86 BUF 35Step #900.00 (2ms ~= 500.00*RT, ~48000.00UPS, TraCI: 25ms, vehicles TOT 723 ACT 96 BUF 412Step #1000.00 (2ms ~= 500.00*RT, ~41000.00UPS, TraCI: 27ms, vehicles TOT 776 ACT 82 BUF 48Step #1002.00 (1ms ~= 1000.00*RT, ~83000.00UPS, TraCI: 0ms, vehicles TOT 777 ACT 83 BUF 48
+Step #0.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 12ms, vehicles TOT 5 ACT 5 BUF 0)      Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_3.1', lane='E10_2', gap=-4.70, time=19.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge 'E11', time=19.00.
+Warning: Teleporting vehicle 't_3'; collision with vehicle 'f_2.0', lane='E10_1', gap=-3.64, time=24.00 stage=laneChange.
+Warning: Vehicle 't_3' ends teleporting on edge 'E11', time=24.00.
+Warning: Teleporting vehicle 'f_1.4'; junction collision with vehicle 't_4', lane=':J8_6_1', gap=-1.04, time=27.00 stage=laneChange.
+Warning: Vehicle 'f_1.4' ends teleporting on edge 'E12', time=27.00.
+Warning: Teleporting vehicle 'f_3.1'; collision with vehicle 't_3', lane='E11_0', gap=-2.50, time=30.00 stage=laneChange.
+Warning: Vehicle 'f_3.1' ends teleporting on edge '-E7.15', time=30.00.
+Warning: Teleporting vehicle 'f_3.2'; collision with vehicle 't_3', lane='E11_0', gap=-1.28, time=34.00 stage=laneChange.
+Warning: Vehicle 'f_3.2' ends teleporting on edge '-E7.15', time=34.00.
+Warning: Vehicle 'f_1.7' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=35.00.
+Warning: Teleporting vehicle 't_2'; collision with vehicle 'f_2.1', lane='E10_0', gap=-5.68, time=37.00 stage=laneChange.
+Warning: Vehicle 't_2' ends teleporting on edge '-E8.14', time=37.00.
+Warning: Teleporting vehicle 'f_2.2'; collision with vehicle 't_2', lane='-E8.14_0', gap=-4.39, time=39.00 stage=laneChange.
+Warning: Vehicle 'f_2.2' teleports beyond arrival edge '-E8.14', time=39.00.
+Warning: Teleporting vehicle 'f_1.12'; collision with vehicle 't_0', lane='E11_0', gap=-4.05, time=57.00 stage=laneChange.
+Warning: Vehicle 'f_1.12' ends teleporting on edge 'E12', time=58.00.
+Warning: Teleporting vehicle 'f_1.15'; collision with vehicle 't_0', lane='E12_1', gap=-0.07, time=83.00 stage=laneChange.
+Warning: Vehicle 'f_1.15' ends teleporting on edge 'E13', time=83.00.
+Warning: Teleporting vehicle 't_0'; collision with vehicle 'f_1.16', lane='E12_1', gap=-1.03, time=94.00 stage=laneChange.
+Warning: Teleporting vehicle 'f_0.14'; collision with vehicle 't_0', lane='E12_1', gap=-3.07, time=94.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge 'E13', time=95.00.
+Warning: Teleporting vehicle 'f_1.12'; collision with vehicle 't_0', lane='E13_1', gap=-1.87, time=96.00 stage=laneChange.
+Warning: Vehicle 'f_1.12' ends teleporting on edge 'E9', time=96.00.
+Warning: Vehicle 'f_0.14' ends teleporting on edge 'E13', time=96.00.
+Warning: Teleporting vehicle 'f_0.14'; collision with vehicle 't_0', lane='E13_0', gap=-1.06, time=97.00 stage=laneChange.
+Warning: Vehicle 'f_0.14' ends teleporting on edge '-E5.21', time=97.00.
+Step #100.00 (1ms ~= 1000.00*RT, ~53000.00UPS, TraCI: 28ms, vehicles TOT 110 ACT 53 BUF 25Step #200.00 (1ms ~= 1000.00*RT, ~64000.00UPS, TraCI: 25ms, vehicles TOT 199 ACT 64 BUF 61Step #300.00 (1ms ~= 1000.00*RT, ~70000.00UPS, TraCI: 26ms, vehicles TOT 292 ACT 70 BUF 93Step #400.00 (1ms ~= 1000.00*RT, ~78000.00UPS, TraCI: 33ms, vehicles TOT 375 ACT 78 BUF 13Step #500.00 (2ms ~= 500.00*RT, ~41000.00UPS, TraCI: 30ms, vehicles TOT 450 ACT 82 BUF 185Step #600.00 (2ms ~= 500.00*RT, ~46500.00UPS, TraCI: 34ms, vehicles TOT 526 ACT 93 BUF 234Step #700.00 (2ms ~= 500.00*RT, ~47500.00UPS, TraCI: 35ms, vehicles TOT 586 ACT 95 BUF 299Step #800.00 (2ms ~= 500.00*RT, ~45500.00UPS, TraCI: 37ms, vehicles TOT 633 ACT 91 BUF 377Step #900.00 (3ms ~= 333.33*RT, ~33000.00UPS, TraCI: 49ms, vehicles TOT 702 ACT 99 BUF 433Step #1000.00 (2ms ~= 500.00*RT, ~45000.00UPS, TraCI: 31ms, vehicles TOT 741 ACT 90 BUF 51Step #1002.00 (2ms ~= 500.00*RT, ~45000.00UPS, TraCI: 1ms, vehicles TOT 742 ACT 90 BUF 518
+ 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 58
+states.shape: (75, 9)
+observed_states.shape: (59, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 57
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 59
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 59
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 59
+states.shape: (75, 9)
+observed_states.shape: (60, 9)
+len(HVs): 60
+states.shape: (75, 9)
+observed_states.shape: (61, 9)
+len(HVs): 61
+states.shape: (75, 9)
+observed_states.shape: (62, 9)
+len(HVs): 61
+states.shape: (75, 9)
+observed_states.shape: (62, 9)
+len(HVs): 61
+states.shape: (75, 9)
+observed_states.shape: (62, 9)
+one episode finished
+ Retrying in 1 seconds
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 16
+states.shape: (75, 9)
+observed_states.shape: (21, 9)
+len(HVs): 17
+states.shape: (75, 9)
+observed_states.shape: (22, 9)
+len(HVs): 18
+states.shape: (75, 9)
+observed_states.shape: (23, 9)
+len(HVs): 19
+states.shape: (75, 9)
+observed_states.shape: (24, 9)
+len(HVs): 21
+states.shape: (75, 9)
+observed_states.shape: (26, 9)
+len(HVs): 22
+states.shape: (75, 9)
+observed_states.shape: (27, 9)
+len(HVs): 23
+states.shape: (75, 9)
+observed_states.shape: (28, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (29, 9)
+len(HVs): 26
+states.shape: (75, 9)
+observed_states.shape: (31, 9)
+len(HVs): 26
+states.shape: (75, 9)
+observed_states.shape: (31, 9)
+len(HVs): 27
+states.shape: (75, 9)
+observed_states.shape: (32, 9)
+len(HVs): 29
+states.shape: (75, 9)
+observed_states.shape: (34, 9)
+len(HVs): 33
+states.shape: (75, 9)
+observed_states.shape: (38, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (44, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (44, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+one episode finished
+ Retrying in 1 seconds
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)Step #0.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 11ms, vehicles TOT 5 ACT 5 BUF 0)      Warning: Teleporting vehicle 't_1'; collision with vehicle 'f_1.4', lane='E12_1', gap=-4.54, time=31.00 stage=laneChange.
+Warning: Vehicle 't_1' ends teleporting on edge 'E13', time=31.00.
+Warning: Teleporting vehicle 't_3'; collision with vehicle 'f_2.2', lane='E10_0', gap=-7.32, time=37.00 stage=laneChange.
+Warning: Vehicle 't_3' ends teleporting on edge 'E11', time=37.00.
+Warning: Teleporting vehicle 't_1'; collision with vehicle 'f_2.3', lane='E9_1', gap=-2.11, time=38.00 stage=laneChange.
+Warning: Vehicle 't_1' ends teleporting on edge '-E40', time=38.00.
+Warning: Teleporting vehicle 'f_0.8'; collision with vehicle 't_2', lane='E10_2', gap=-3.46, time=40.00 stage=laneChange.
+Warning: Vehicle 'f_0.8' ends teleporting on edge 'E11', time=40.00.
+Warning: Teleporting vehicle 'f_1.9'; collision with vehicle 't_3', lane='E11_1', gap=-1.85, time=42.00 stage=laneChange.
+Warning: Vehicle 'f_1.9' ends teleporting on edge 'E12', time=43.00.
+Warning: Teleporting vehicle 'f_4.8'; collision with vehicle 't_2', lane='E10_1', gap=-3.96, time=52.00 stage=laneChange.
+Warning: Vehicle 'f_4.8' ends teleporting on edge 'E11', time=52.00.
+Warning: Teleporting vehicle 'f_0.10'; collision with vehicle 't_4', lane='E11_1', gap=-0.16, time=53.00 stage=laneChange.
+Warning: Vehicle 'f_0.10' ends teleporting on edge 'E12', time=53.00.
+Warning: Teleporting vehicle 'f_2.4'; collision with vehicle 't_2', lane='E10_0', gap=-1.29, time=56.00 stage=laneChange.
+Warning: Vehicle 'f_2.4' ends teleporting on edge '-E8.14', time=56.00.
+Warning: Teleporting vehicle 'f_2.3'; collision with vehicle 't_2', lane='E10_0', gap=-4.38, time=59.00 stage=laneChange.
+Warning: Vehicle 'f_2.3' ends teleporting on edge '-E8.14', time=59.00.
+Warning: Teleporting vehicle 'f_1.15'; collision with vehicle 't_0', lane='E11_0', gap=-3.41, time=62.00 stage=laneChange.
+Warning: Vehicle 'f_1.15' ends teleporting on edge 'E12', time=62.00.
+Warning: Teleporting vehicle 'f_1.13'; collision with vehicle 't_4', lane='E12_1', gap=-2.58, time=63.00 stage=laneChange.
+Warning: Vehicle 'f_1.13' ends teleporting on edge 'E13', time=63.00.
+Warning: Teleporting vehicle 't_0'; collision with vehicle 'f_4.10', lane='E11_2', gap=-2.19, time=70.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge 'E12', time=70.00.
+Warning: Teleporting vehicle 'f_4.11'; collision with vehicle 't_0', lane='E12_1', gap=-0.16, time=76.00 stage=laneChange.
+Warning: Vehicle 'f_4.11' ends teleporting on edge '-E60', time=76.00.
+Warning: Teleporting vehicle 'f_0.11'; collision with vehicle 't_4', lane='E12_0', gap=-6.37, time=77.00 stage=laneChange.
+Warning: Teleporting vehicle 'f_2.18'; collision with vehicle 't_0', lane='E12_0', gap=-6.37, time=78.00 stage=laneChange.
+Warning: Vehicle 'f_2.18' ends teleporting on edge 'E13', time=78.00.
+Warning: Teleporting vehicle 'f_4.13'; collision with vehicle 't_0', lane='E12_1', gap=-4.80, time=83.00 stage=laneChange.
+Warning: Vehicle 'f_0.11' ends teleporting on edge 'E13', time=83.00.
+Warning: Vehicle 'f_4.13' ends teleporting on edge '-E60', time=83.00.
+Warning: Teleporting vehicle 'f_0.13'; collision with vehicle 't_0', lane='E12_2', gap=-6.37, time=85.00 stage=laneChange.
+Warning: Vehicle 'f_0.13' ends teleporting on edge 'E13', time=88.00.
+Warning: Teleporting vehicle 't_0'; junction collision with vehicle 'f_0.17', lane=':J9_6_2', gap=-0.83, time=96.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge 'E13', time=96.00.
+Step #100.00 (1ms ~= 1000.00*RT, ~56000.00UPS, TraCI: 31ms, vehicles TOT 122 ACT 56 BUF 13Step #200.00 (1ms ~= 1000.00*RT, ~63000.00UPS, TraCI: 31ms, vehicles TOT 207 ACT 63 BUF 53Step #300.00 (1ms ~= 1000.00*RT, ~64000.00UPS, TraCI: 26ms, vehicles TOT 290 ACT 64 BUF 95Step #400.00 (1ms ~= 1000.00*RT, ~66000.00UPS, TraCI: 27ms, vehicles TOT 374 ACT 66 BUF 13Step #500.00 (1ms ~= 1000.00*RT, ~69000.00UPS, TraCI: 32ms, vehicles TOT 460 ACT 69 BUF 17Step #600.00 (1ms ~= 1000.00*RT, ~63000.00UPS, TraCI: 25ms, vehicles TOT 546 ACT 63 BUF 21Step #700.00 (1ms ~= 1000.00*RT, ~72000.00UPS, TraCI: 29ms, vehicles TOT 627 ACT 72 BUF 25Step #800.00 (2ms ~= 500.00*RT, ~43000.00UPS, TraCI: 31ms, vehicles TOT 709 ACT 86 BUF 301Step #900.00 (1ms ~= 1000.00*RT, ~74000.00UPS, TraCI: 27ms, vehicles TOT 764 ACT 74 BUF 37Step #1000.00 (3ms ~= 333.33*RT, ~30000.00UPS, TraCI: 47ms, vehicles TOT 839 ACT 90 BUF 42Step #1002.00 (1ms ~= 1000.00*RT, ~90000.00UPS, TraCI: 1ms, vehicles TOT 839 ACT 90 BUF 42
+Step #0.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 10ms, vehicles TOT 5 ACT 5 BUF 0)      Warning: Teleporting vehicle 'f_0.4'; collision with vehicle 't_4', lane='E10_0', gap=-4.65, time=21.00 stage=laneChange.
+Warning: Vehicle 'f_0.4' ends teleporting on edge 'E11', time=21.00.
+Warning: Teleporting vehicle 't_3'; collision with vehicle 'f_2.0', lane='E10_0', gap=-3.40, time=27.00 stage=laneChange.
+Warning: Vehicle 't_3' ends teleporting on edge 'E11', time=27.00.
+Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_0.5', lane='E10_2', gap=-7.44, time=29.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge 'E11', time=29.00.
+Warning: Vehicle 'f_1.5' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=30.00.
+Warning: Teleporting vehicle 'f_1.5'; collision with vehicle 't_1', lane='E12_2', gap=-0.80, time=30.00 stage=move.
+Warning: Vehicle 'f_1.5' ends teleporting on edge 'E13', time=30.00.
+Warning: Teleporting vehicle 't_3'; collision with vehicle 'f_1.7', lane='E11_0', gap=-0.42, time=33.00 stage=laneChange.
+Warning: Vehicle 't_3' ends teleporting on edge '-E7.15', time=33.00.
+Warning: Teleporting vehicle 'f_1.5'; junction collision with vehicle 't_2', lane=':J10_6_0', gap=-4.65, time=34.00 stage=laneChange.
+
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 16
+states.shape: (75, 9)
+observed_states.shape: (21, 9)
+len(HVs): 18
+states.shape: (75, 9)
+observed_states.shape: (23, 9)
+len(HVs): 18
+states.shape: (75, 9)
+observed_states.shape: (23, 9)
+len(HVs): 19
+states.shape: (75, 9)
+observed_states.shape: (24, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (29, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (29, 9)
+len(HVs): 25
+states.shape: (75, 9)
+observed_states.shape: (30, 9)
+len(HVs): 25
+states.shape: (75, 9)
+observed_states.shape: (30, 9)
+len(HVs): 28
+states.shape: (75, 9)
+observed_states.shape: (33, 9)
+len(HVs): 29
+states.shape: (75, 9)
+observed_states.shape: (34, 9)
+len(HVs): 30
+states.shape: (75, 9)
+observed_states.shape: (35, 9)
+len(HVs): 30
+states.shape: (75, 9)
+observed_states.shape: (35, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+one episode finished
+ Retrying in 1 seconds
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 17
+states.shape: (75, 9)
+observed_states.shape: (22, 9)
+len(HVs): 19
+states.shape: (75, 9)
+observed_states.shape: (24, 9)
+len(HVs): 20
+states.shape: (75, 9)
+observed_states.shape: (25, 9)
+len(HVs): 20
+states.shape: (75, 9)
+observed_states.shape: (25, 9)
+len(HVs): 21
+states.shape: (75, 9)
+observed_states.shape: (26, 9)
+len(HVs): 22
+states.shape: (75, 9)
+observed_states.shape: (27, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (29, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (29, 9)
+len(HVs): 26
+states.shape: (75, 9)
+observed_states.shape: (31, 9)
+len(HVs): 29
+states.shape: (75, 9)
+observed_states.shape: (34, 9)
+len(HVs): 29
+states.shape: (75, 9)
+observed_states.shape: (34, 9)
+len(HVs): 30
+states.shape: (75, 9)
+observed_states.shape: (35, 9)
+len(HVs): 33
+states.shape: (75, 9)
+observed_states.shape: (38, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (44, 9)
+len(HVs): 38
+states.shape: (75, 9)Warning: Vehicle 'f_1.5' ends teleporting on edge 'E9', time=36.00.
+Warning: Teleporting vehicle 'f_2.5'; collision with vehicle 't_2', lane='E9_2', gap=-5.30, time=38.00 stage=laneChange.
+Warning: Vehicle 'f_2.5' ends teleporting on edge 'E10', time=38.00.
+Warning: Teleporting vehicle 't_2'; collision with vehicle 'f_4.9', lane='E9_1', gap=-6.20, time=40.00 stage=laneChange.
+Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_2.10', lane='E12_1', gap=-3.28, time=41.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge '-E60', time=41.00.
+Warning: Teleporting vehicle 't_1'; collision with vehicle 'f_3.9', lane='E13_0', gap=-0.24, time=44.00 stage=laneChange.
+Warning: Vehicle 't_1' ends teleporting on edge 'E9', time=44.00.
+Warning: Vehicle 't_2' ends teleporting on edge 'E10', time=46.00.
+Warning: Vehicle 't_2' performs emergency stop at the end of lane 'E10_1' because there is no connection to the next edge (decel=-6.53, offset=0.73), time=48.00.
+Warning: Teleporting vehicle 't_0'; collision with vehicle 'f_4.5', lane='E11_2', gap=-3.95, time=50.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge 'E12', time=50.00.
+Warning: Teleporting vehicle 'f_3.6'; collision with vehicle 't_2', lane='E10_2', gap=-4.62, time=51.00 stage=laneChange.
+Warning: Teleporting vehicle 'f_2.7'; collision with vehicle 't_1', lane='E9_1', gap=-5.33, time=52.00 stage=laneChange.
+Warning: Vehicle 'f_2.7' ends teleporting on edge 'E10', time=52.00.
+Warning: Vehicle 'f_3.6' ends teleporting on edge 'E11', time=54.00.
+Warning: Teleporting vehicle 't_0'; collision with vehicle 'f_1.9', lane='E13_0', gap=-3.57, time=64.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge '-E5.21', time=64.00.
+Warning: Teleporting vehicle 'f_3.7'; collision with vehicle 't_2', lane='E10_2', gap=-2.30, time=66.00 stage=laneChange.
+Warning: Vehicle 'f_3.7' ends teleporting on edge 'E11', time=66.00.
+Warning: Teleporting vehicle 'f_0.8'; collision with vehicle 't_2', lane='E10_1', gap=-6.26, time=75.00 stage=laneChange.
+Warning: Vehicle 'f_0.8' ends teleporting on edge 'E11', time=75.00.
+Warning: Teleporting vehicle 'f_4.9'; collision with vehicle 't_2', lane='E10_2', gap=-1.95, time=76.00 stage=laneChange.
+Warning: Vehicle 'f_4.9' ends teleporting on edge 'E11', time=76.00.
+Warning: Teleporting vehicle 'f_4.12'; collision with vehicle 't_2', lane='E10_1', gap=-5.79, time=86.00 stage=laneChange.
+Warning: Vehicle 'f_4.12' ends teleporting on edge 'E11', time=86.00.
+Step #100.00 (2ms ~= 500.00*RT, ~27500.00UPS, TraCI: 34ms, vehicles TOT 112 ACT 55 BUF 23)Warning: Teleporting vehicle 'f_4.15'; collision with vehicle 't_2', lane='E10_2', gap=-2.42, time=106.00 stage=laneChange.
+Warning: Vehicle 'f_4.15' ends teleporting on edge 'E11', time=106.00.
+Warning: Teleporting vehicle 'f_2.12'; collision with vehicle 't_2', lane='E10_0', gap=-0.55, time=113.00 stage=laneChange.
+Warning: Vehicle 'f_2.12' ends teleporting on edge '-E8.14', time=113.00.
+Warning: Teleporting vehicle 't_2'; collision with vehicle 'f_2.13', lane='-E8.14_0', gap=-5.17, time=131.00 stage=laneChange.
+Warning: Vehicle 't_2' teleports beyond arrival edge '-E8.14', time=131.00.
+Step #200.00 (1ms ~= 1000.00*RT, ~58000.00UPS, TraCI: 22ms, vehicles TOT 188 ACT 58 BUF 72Step #300.00 (1ms ~= 1000.00*RT, ~64000.00UPS, TraCI: 28ms, vehicles TOT 274 ACT 64 BUF 11Step #400.00 (1ms ~= 1000.00*RT, ~66000.00UPS, TraCI: 27ms, vehicles TOT 358 ACT 66 BUF 15Step #500.00 (1ms ~= 1000.00*RT, ~72000.00UPS, TraCI: 26ms, vehicles TOT 446 ACT 72 BUF 18Step #600.00 (2ms ~= 500.00*RT, ~36500.00UPS, TraCI: 42ms, vehicles TOT 517 ACT 73 BUF 243Step #700.00 (2ms ~= 500.00*RT, ~39000.00UPS, TraCI: 30ms, vehicles TOT 588 ACT 78 BUF 297Step #800.00 (1ms ~= 1000.00*RT, ~82000.00UPS, TraCI: 47ms, vehicles TOT 654 ACT 82 BUF 35Step #900.00 (2ms ~= 500.00*RT, ~51500.00UPS, TraCI: 35ms, vehicles TOT 731 ACT 103 BUF 40Step #1000.00 (2ms ~= 500.00*RT, ~48000.00UPS, TraCI: 52ms, vehicles TOT 777 ACT 96 BUF 48Step #1002.00 (2ms ~= 500.00*RT, ~48000.00UPS, TraCI: 0ms, vehicles TOT 777 ACT 96 BUF 483
+Step #0.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 13ms, vehicles TOT 5 ACT 5 BUF 0)      Warning: Teleporting vehicle 'f_2.2'; collision with vehicle 't_2', lane='E13_1', gap=-6.20, time=17.00 stage=laneChange.
+Warning: Vehicle 'f_2.2' ends teleporting on edge 'E9', time=17.00.
+Warning: Teleporting vehicle 't_0'; collision with vehicle 'f_3.1', lane='E11_1', gap=-7.01, time=25.00 stage=laneChange.
+Warning: Teleporting vehicle 't_3'; collision with vehicle 'f_0.4', lane='E10_0', gap=-1.43, time=26.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge 'E12', time=26.00.
+Warning: Vehicle 't_3' ends teleporting on edge 'E11', time=26.00.
+Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_2.2', lane='E10_0', gap=-5.30, time=28.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge 'E11', time=28.00.
+Warning: Teleporting vehicle 'f_3.2'; collision with vehicle 't_4', lane='E11_1', gap=-6.90, time=29.00 stage=laneChange.
+Warning: Vehicle 'f_3.2' ends teleporting on edge '-E7.15', time=29.00.
+Warning: Teleporting vehicle 'f_4.2'; collision with vehicle 't_0', lane='E12_0', gap=-7.28, time=31.00 stage=laneChange.
+Warning: Vehicle 'f_4.2' ends teleporting on edge '-E60', time=31.00.
+
+observed_states.shape: (43, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (44, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 41
+states.shape: (75, 9)
+observed_states.shape: (44, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+one episode finished
+ Retrying in 1 seconds
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 17
+states.shape: (75, 9)
+observed_states.shape: (22, 9)
+len(HVs): 18
+states.shape: (75, 9)
+observed_states.shape: (23, 9)
+len(HVs): 19
+states.shape: (75, 9)
+observed_states.shape: (24, 9)
+len(HVs): 20
+states.shape: (75, 9)
+observed_states.shape: (25, 9)
+len(HVs): 21
+states.shape: (75, 9)
+observed_states.shape: (26, 9)
+len(HVs): 23
+states.shape: (75, 9)
+observed_states.shape: (28, 9)
+len(HVs): 23
+states.shape: (75, 9)
+observed_states.shape: (28, 9)
+len(HVs): 25
+states.shape: (75, 9)
+observed_states.shape: (30, 9)
+len(HVs): 28
+states.shape: (75, 9)
+observed_states.shape: (33, 9)
+len(HVs): 28
+states.shape: (75, 9)
+observed_states.shape: (33, 9)
+len(HVs): 28
+states.shape: (75, 9)
+observed_states.shape: (33, 9)
+len(HVs): 29
+states.shape: (75, 9)
+observed_states.shape: (34, 9)
+len(HVs): 31
+states.shape: (75, 9)
+observed_states.shape: (36, 9)
+len(HVs): 32
+states.shape: (75, 9)
+observed_states.shape: (36, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)Warning: Teleporting vehicle 't_2'; junction collision with vehicle 'f_4.5', lane=':J6_3_2', gap=-1.22, time=37.00 stage=move.
+Warning: Teleporting vehicle 'f_0.2'; junction collision with vehicle 't_0', lane=':J9_6_1', gap=-2.35, time=37.00 stage=laneChange.
+Warning: Teleporting vehicle 'f_2.6'; junction collision with vehicle 't_0', lane=':J9_6_2', gap=-3.73, time=38.00 stage=laneChange.
+Warning: Vehicle 't_2' ends teleporting on edge 'E10', time=38.00.
+Warning: Vehicle 'f_0.2' ends teleporting on edge 'E13', time=38.00.
+Warning: Vehicle 'f_2.6' ends teleporting on edge 'E13', time=38.00.
+Warning: Teleporting vehicle 'f_3.11'; collision with vehicle 't_0', lane='E13_1', gap=-2.34, time=46.00 stage=laneChange.
+Warning: Vehicle 'f_3.11' ends teleporting on edge 'E9', time=46.00.
+Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_2.11', lane='E12_1', gap=-7.47, time=51.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge '-E60', time=51.00.
+Warning: Teleporting vehicle 'f_2.9'; collision with vehicle 't_0', lane='E13_1', gap=-0.82, time=56.00 stage=laneChange.
+Warning: Vehicle 'f_2.9' ends teleporting on edge 'E9', time=56.00.
+Warning: Teleporting vehicle 'f_1.8'; collision with vehicle 't_0', lane='E13_2', gap=-2.93, time=57.00 stage=laneChange.
+Warning: Vehicle 'f_1.8' ends teleporting on edge 'E9', time=57.00.
+Step #100.00 (1ms ~= 1000.00*RT, ~56000.00UPS, TraCI: 25ms, vehicles TOT 112 ACT 56 BUF 23Step #200.00 (1ms ~= 1000.00*RT, ~55000.00UPS, TraCI: 33ms, vehicles TOT 205 ACT 55 BUF 55Step #300.00 (4ms ~= 250.00*RT, ~16500.00UPS, TraCI: 26ms, vehicles TOT 297 ACT 66 BUF 88)Step #400.00 (2ms ~= 500.00*RT, ~39000.00UPS, TraCI: 29ms, vehicles TOT 382 ACT 78 BUF 128Step #500.00 (1ms ~= 1000.00*RT, ~78000.00UPS, TraCI: 30ms, vehicles TOT 451 ACT 78 BUF 18Step #600.00 (2ms ~= 500.00*RT, ~43000.00UPS, TraCI: 34ms, vehicles TOT 520 ACT 86 BUF 240Step #700.00 (2ms ~= 500.00*RT, ~42500.00UPS, TraCI: 31ms, vehicles TOT 589 ACT 85 BUF 296Step #800.00 (2ms ~= 500.00*RT, ~47000.00UPS, TraCI: 35ms, vehicles TOT 666 ACT 94 BUF 344Step #900.00 (2ms ~= 500.00*RT, ~44500.00UPS, TraCI: 48ms, vehicles TOT 712 ACT 89 BUF 423Step #1000.00 (2ms ~= 500.00*RT, ~46000.00UPS, TraCI: 36ms, vehicles TOT 779 ACT 92 BUF 48Step #1002.00 (1ms ~= 1000.00*RT, ~92000.00UPS, TraCI: 0ms, vehicles TOT 780 ACT 92 BUF 48
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 15ms, vehicles TOT 5 ACT 5 BUF 0)                      Warning: Teleporting vehicle 'f_1.2'; collision with vehicle 't_1', lane='E12_2', gap=-4.28, time=17.00 stage=laneChange.
+Warning: Vehicle 'f_1.2' ends teleporting on edge 'E13', time=17.00.
+Warning: Vehicle 'f_2.3' performs emergency braking with decel=-9.00 wished=4.50 severity=1.00, time=32.00.
+Warning: Teleporting vehicle 't_0'; collision with vehicle 'f_4.3', lane='E11_1', gap=-5.77, time=33.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge 'E12', time=33.00.
+Warning: Teleporting vehicle 't_0'; collision with vehicle 'f_2.9', lane='E12_1', gap=-2.01, time=37.00 stage=laneChange.
+Warning: Vehicle 't_0' ends teleporting on edge 'E13', time=38.00.
+Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_0.5', lane='E12_2', gap=-6.01, time=41.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge '-E60', time=41.00.
+Warning: Vehicle 't_3' performs emergency stop at the end of lane 'E11_2' because there is no connection to the next edge (decel=-8.34, offset=1.10), time=42.00.
+Warning: Teleporting vehicle 'f_4.4'; collision with vehicle 't_2', lane='E10_2', gap=-2.32, time=46.00 stage=laneChange.
+Warning: Vehicle 'f_4.4' ends teleporting on edge 'E11', time=46.00.
+Warning: Teleporting vehicle 'f_4.5'; collision with vehicle 't_2', lane='E10_1', gap=-0.71, time=50.00 stage=laneChange.
+Warning: Vehicle 'f_4.5' ends teleporting on edge 'E11', time=50.00.
+
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (38, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (37, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (44, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (46, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 48
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+one episode finished
+ Retrying in 1 seconds
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 10
+states.shape: (75, 9)
+observed_states.shape: (15, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 15
+states.shape: (75, 9)
+observed_states.shape: (20, 9)
+len(HVs): 16
+states.shape: (75, 9)
+observed_states.shape: (21, 9)
+len(HVs): 17
+states.shape: (75, 9)
+observed_states.shape: (22, 9)
+len(HVs): 18
+states.shape: (75, 9)
+observed_states.shape: (23, 9)
+len(HVs): 19
+states.shape: (75, 9)
+observed_states.shape: (24, 9)
+len(HVs): 21
+states.shape: (75, 9)
+observed_states.shape: (26, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (29, 9)
+len(HVs): 24
+states.shape: (75, 9)
+observed_states.shape: (29, 9)
+len(HVs): 25
+states.shape: (75, 9)
+observed_states.shape: (30, 9)
+len(HVs): 27
+states.shape: (75, 9)
+observed_states.shape: (32, 9)
+len(HVs): 27
+states.shape: (75, 9)
+observed_states.shape: (32, 9)
+len(HVs): 27
+states.shape: (75, 9)
+observed_states.shape: (32, 9)
+len(HVs): 29
+states.shape: (75, 9)
+observed_states.shape: (34, 9)
+len(HVs): 31
+states.shape: (75, 9)
+observed_states.shape: (36, 9)
+len(HVs): 32
+states.shape: (75, 9)
+observed_states.shape: (37, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 34
+states.shape: (75, 9)
+observed_states.shape: (39, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 35
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (40, 9)
+len(HVs): 36
+states.shape: (75, 9)
+observed_states.shape: (41, 9)
+len(HVs): 37
+states.shape: (75, 9)
+observed_states.shape: (42, 9)
+len(HVs): 38
+states.shape: (75, 9)
+observed_states.shape: (43, 9)
+len(HVs): 39
+states.shape: (75, 9)
+observed_states.shape: (44, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 40
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 43
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 42
+states.shape: (75, 9)
+observed_states.shape: (45, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 44
+states.shape: (75, 9)
+observed_states.shape: (47, 9)
+len(HVs): 46
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 45
+states.shape: (75, 9)
+observed_states.shape: (48, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (50, 9)
+len(HVs): 47
+states.shape: (75, 9)
+observed_states.shape: (49, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 49
+states.shape: (75, 9)
+observed_states.shape: (51, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 51
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 50
+states.shape: (75, 9)
+observed_states.shape: (52, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (56, 9)
+len(HVs): 56
+states.shape: (75, 9)
+observed_states.shape: (58, 9)
+len(HVs): 55
+states.shape: (75, 9)
+observed_states.shape: (57, 9)
+len(HVs): 54
+states.shape: (75, 9)
+observed_states.shape: (55, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 52
+states.shape: (75, 9)
+observed_states.shape: (53, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 53
+states.shape: (75, 9)
+observed_states.shape: (54, 9)
+len(HVs): 54
+states.shape: (75, 9)Warning: Teleporting vehicle 'f_2.4'; collision with vehicle 't_2', lane='-E8.14_0', gap=-5.36, time=80.00 stage=laneChange.
+Warning: Vehicle 'f_2.4' teleports beyond arrival edge '-E8.14', time=80.00.
+Step #100.00 (1ms ~= 1000.00*RT, ~57000.00UPS, TraCI: 29ms, vehicles TOT 108 ACT 57 BUF 27Step #200.00 (1ms ~= 1000.00*RT, ~54000.00UPS, TraCI: 23ms, vehicles TOT 198 ACT 54 BUF 62Step #300.00 (2ms ~= 500.00*RT, ~33000.00UPS, TraCI: 31ms, vehicles TOT 292 ACT 66 BUF 93)Step #400.00 (1ms ~= 1000.00*RT, ~62000.00UPS, TraCI: 24ms, vehicles TOT 374 ACT 62 BUF 13Step #500.00 (1ms ~= 1000.00*RT, ~75000.00UPS, TraCI: 33ms, vehicles TOT 459 ACT 75 BUF 17Step #600.00 (2ms ~= 500.00*RT, ~32000.00UPS, TraCI: 27ms, vehicles TOT 531 ACT 64 BUF 229Step #700.00 (2ms ~= 500.00*RT, ~35500.00UPS, TraCI: 33ms, vehicles TOT 612 ACT 71 BUF 273Step #800.00 (2ms ~= 500.00*RT, ~40500.00UPS, TraCI: 30ms, vehicles TOT 692 ACT 81 BUF 318Step #900.00 (1ms ~= 1000.00*RT, ~87000.00UPS, TraCI: 32ms, vehicles TOT 766 ACT 87 BUF 36Step #1000.00 (2ms ~= 500.00*RT, ~42000.00UPS, TraCI: 32ms, vehicles TOT 836 ACT 84 BUF 42Step #1002.00 (1ms ~= 1000.00*RT, ~84000.00UPS, TraCI: 0ms, vehicles TOT 837 ACT 84 BUF 42
+Step #0.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 13ms, vehicles TOT 5 ACT 5 BUF 0)      Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_4.3', lane='E10_2', gap=-0.83, time=22.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge 'E11', time=22.00.
+Warning: Teleporting vehicle 't_4'; collision with vehicle 'f_1.5', lane='E11_1', gap=-1.13, time=23.00 stage=laneChange.
+Warning: Vehicle 't_4' ends teleporting on edge 'E12', time=23.00.
+Warning: Teleporting vehicle 'f_4.6'; collision with vehicle 't_3', lane='E10_1', gap=-5.95, time=39.00 stage=laneChange.
+Warning: Teleporting vehicle 'f_0.9'; collision with vehicle 't_2', lane='E10_0', gap=-2.05, time=39.00 stage=laneChange.
+Warning: Vehicle 'f_4.6' ends teleporting on edge 'E11', time=39.00.
+Warning: Vehicle 'f_0.9' ends teleporting on edge 'E11', time=39.00.
+Warning: Teleporting vehicle 't_2'; collision with vehicle 't_3', lane='E10_0', gap=-2.42, time=42.00 stage=laneChange.
+Warning: Vehicle 't_2' ends teleporting on edge '-E8.14', time=42.00.
+Warning: Teleporting vehicle 'f_0.2'; collision with vehicle 't_4', lane='E12_1', gap=-6.40, time=46.00 stage=laneChange.
+Warning: Teleporting vehicle 'f_4.5'; collision with vehicle 't_0', lane='E11_1', gap=-7.28, time=46.00 stage=laneChange.
+Warning: Vehicle 'f_0.2' ends teleporting on edge 'E13', time=46.00.
+Warning: Teleporting vehicle 'f_2.6'; collision with vehicle 't_4', lane='E12_2', gap=-1.36, time=47.00 stage=laneChange.
+Warning: Vehicle 'f_4.5' ends teleporting on edge 'E12', time=47.00.
+Warning: Vehicle 'f_2.6' ends teleporting on edge 'E13', time=47.00.
+Warning: Teleporting vehicle 'f_3.5'; collision with vehicle 't_0', lane='E11_2', gap=-0.46, time=50.00 stage=laneChange.
+Warning: Teleporting vehicle 'f_1.3'; collision with vehicle 't_4', lane='E12_2', gap=-2.60, time=50.00 stage=laneChange.
+Warning: Vehicle 'f_1.3' ends teleporting on edge 'E13', time=50.00.
+Warning: Vehicle 'f_3.5' ends teleporting on edge '-E7.15', time=50.00.
+Warning: Teleporting vehicle 'f_2.5'; collision with vehicle 't_1', lane='E9_1', gap=-0.48, time=51.00 stage=laneChange.
+Warning: Vehicle 'f_2.5' ends teleporting on edge 'E10', time=51.00.
+Warning: Teleporting vehicle 'f_4.7'; collision with vehicle 't_0', lane='E11_0', gap=-7.35, time=55.00 stage=laneChange.
+Warning: Vehicle 'f_4.7' ends teleporting on edge 'E12', time=55.00.
+Warning: Teleporting vehicle 'f_1.4'; collision with vehicle 't_4', lane='E12_2', gap=-2.25, time=56.00 stage=laneChange.
+Warning: Vehicle 'f_1.4' ends teleporting on edge 'E13', time=56.00.
+Warning: Teleporting vehicle 'f_0.5'; collision with vehicle 't_4', lane='E12_1', gap=-1.60, time=58.00 stage=laneChange.
+Warning: Teleporting vehicle 't_3'; collision with vehicle 'f_3.6', lane='E11_1', gap=-2.05, time=58.00 stage=laneChange.
+Warning: Vehicle 't_3' ends teleporting on edge '-E7.15', time=58.00.
+Warning: Vehicle 'f_0.5' ends teleporting on edge 'E13', time=58.00.
+Warning: Teleporting vehicle 'f_3.4'; collision with vehicle 't_3', lane='-E7.15_0', gap=-1.68, time=60.00 stage=laneChange.
+Warning: Vehicle 'f_3.4' teleports beyond arrival edge '-E7.15', time=60.00.
+Warning: Teleporting vehicle 'f_3.11'; collision with vehicle 't_1', lane='E9_2', gap=-5.57, time=61.00 stage=laneChange.
+Warning: Vehicle 'f_3.11' ends teleporting on edge 'E10', time=61.00.
+Warning: Teleporting vehicle 'f_2.8'; collision with vehicle 't_4', lane='E12_1', gap=-6.43, time=62.00 stage=laneChange.
+Warning: Vehicle 'f_2.8' ends teleporting on edge 'E13', time=62.00.
+Warning: Teleporting vehicle 'f_3.6'; collision with vehicle 't_0', lane='E11_0', gap=-2.25, time=65.00 stage=laneChange.
+Warning: Vehicle 'f_3.6' ends teleporting on edge '-E7.15', time=65.00.
+Warning: Teleporting vehicle 'f_2.7'; collision with vehicle 't_1', lane='E9_2', gap=-6.40, time=66.00 stage=laneChange.
+Warning: Teleporting vehicle 'f_2.9'; collision with vehicle 't_4', lane='E12_1', gap=-0.89, time=66.00 stage=laneChange.
+Warning: Vehicle 'f_2.7' ends teleporting on edge 'E10', time=66.00.
+Warning: Vehicle 'f_2.9' ends teleporting on edge 'E13', time=66.00.
+Warning: Teleporting vehicle 'f_1.12'; collision with vehicle 't_4', lane='E12_2', gap=-2.31, time=70.00 stage=laneChange.
+Warning: Vehicle 'f_1.12' ends teleporting on edge 'E13', time=70.00.
+Warning: Teleporting vehicle 'f_4.6'; collision with vehicle 't_4', lane='E12_0', gap=-4.61, time=78.00 stage=laneChange.
+Warning: Vehicle 'f_4.6' ends teleporting on edge '-E60', time=78.00.

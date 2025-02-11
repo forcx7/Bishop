@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-12-03 23:49:48 by Eclipse SUMO netedit Version 1.21.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="AV" color="yellow"/>
+    <vType id="HV" color="green"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="f_0" type="HV" begin="0.00" departLane="best" departSpeed="random" from="E10" to="-E5.21" end="2000.00" number="500"/>
+    <flow id="f_1" type="HV" begin="0.00" departLane="best" departSpeed="random" from="E11" to="-E40" end="2000.00" number="500"/>
+    <flow id="f_2" type="HV" begin="0.00" departLane="best" departSpeed="random" from="E12" to="-E8.14" end="2000.00" number="500"/>
+    <flow id="f_3" type="HV" begin="0.00" departLane="best" departSpeed="random" from="E13" to="-E7.15" end="2000.00" number="500"/>
+    <flow id="f_4" type="HV" begin="0.00" departLane="best" departSpeed="random" from="E9" to="-E60" end="2000.00" number="500"/>
+    <trip id="t_0" type="AV" depart="5.00" from="E8" to="-E5.21"/>
+    <trip id="t_1" type="AV" depart="5.00" from="E7" to="-E40"/>
+    <trip id="t_2" type="AV" depart="5.00" from="E6" to="-E8.14"/>
+    <trip id="t_3" type="AV" depart="5.00" from="E5" to="-E7.15"/>
+    <trip id="t_4" type="AV" depart="5.00" from="E4" to="-E60"/>
+</routes>
